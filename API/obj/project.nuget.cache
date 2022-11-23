@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6WLzPusfhTCObPhcbRl3qkxrBQwK8kiO7iR9jd4Qb5krQewqF9hSGo3vDFKlIQcKYKP5z0IqpB60/9v6dannw==",
+  "success": true,
+  "projectFilePath": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_Backend\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "G:\\Users\\jorda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "G:\\Users\\jorda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "G:\\Users\\jorda\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512",
+    "G:\\Users\\jorda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "G:\\Users\\jorda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "G:\\Users\\jorda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "G:\\Users\\jorda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

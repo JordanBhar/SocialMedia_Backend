@@ -1,0 +1,56 @@
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\appsettings.Development.json
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\appsettings.json
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\API.exe
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\API.deps.json
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\API.runtimeconfig.json
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\API.dll
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\API.pdb
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\RestSharp.dll
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Users\jorda\Desktop\Webly_Backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\staticwebassets.build.json
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\staticwebassets.development.json
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.csproj.CopyComplete
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.dll
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\refint\API.dll
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.pdb
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+G:\Users\jorda\Desktop\Webly_Backend\API\obj\Debug\net6.0\ref\API.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\appsettings.Development.json
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\appsettings.json
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\API.exe
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\API.deps.json
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\API.runtimeconfig.json
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\API.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\API.pdb
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\RestSharp.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\staticwebassets.build.json
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\staticwebassets.development.json
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.csproj.CopyComplete
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\refint\API.dll
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.pdb
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+G:\Users\jorda\Desktop\Assignment 2\Webly_Backend\API\obj\Debug\net6.0\ref\API.dll
