@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SKasviMitrFP57C13GX8x9Y0HzoYO8PmI0q3N7hEL+rm2X7Ah0f+t4/tMQ7ui1ncXCyQAy5RVPPNnJYScO/KhA==",
+  "dgSpecHash": "UJmkm+TqTSHvlnm5OTPrNw7xod+oE01NXJS1GIssXcngvLvOxsijS9e3korvJKwSzpqomi/HYAQcgC+EBc4YGg==",
   "success": true,
-  "projectFilePath": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_Backend\\API\\API.csproj",
+  "projectFilePath": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_backend\\API\\API.csproj",
   "expectedPackageFiles": [
     "G:\\Users\\jorda\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "G:\\Users\\jorda\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

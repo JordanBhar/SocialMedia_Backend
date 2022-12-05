@@ -11,9 +11,11 @@ namespace API.Models.Persistence
     {
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Image> Images { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("FileName=users.db");
+            optionsBuilder.UseSqlite("FileName=database.db");
         }
     }
 }

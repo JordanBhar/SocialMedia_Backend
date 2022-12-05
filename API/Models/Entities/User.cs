@@ -10,7 +10,7 @@ namespace API.Models.Entities
     
     public class User
     {
-        public Guid Id { get; set; }
+        public Guid UserId { get; set; }
         
         [Required]
         [EmailAddress]
@@ -18,7 +18,7 @@ namespace API.Models.Entities
         
         [Required]
         public string Name { get; set; }
-
-        public List<Image> Images { get; set; }
+        
+        public List<Image>? Images { get; set; }
     }
 }
