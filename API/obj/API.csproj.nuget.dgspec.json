@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_backend\\API\\API.csproj": {}
+    "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_Backend\\API\\API.csproj": {}
   },
   "projects": {
-    "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_backend\\API\\API.csproj": {
+    "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_Backend\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_backend\\API\\API.csproj",
+        "projectUniqueName": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_Backend\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_backend\\API\\API.csproj",
+        "projectPath": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_Backend\\API\\API.csproj",
         "packagesPath": "G:\\Users\\jorda\\.nuget\\packages\\",
-        "outputPath": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_backend\\API\\obj\\",
+        "outputPath": "G:\\Users\\jorda\\Desktop\\Assignment 2\\Webly_Backend\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

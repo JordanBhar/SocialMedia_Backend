@@ -42,7 +42,7 @@ namespace API.Controllers
             };
         }
 
-
+        // POST /api/users
         [HttpPost] // Adding a user to API Database
         public async Task<IActionResult> CreateUser(User user)
         {
@@ -59,6 +59,7 @@ namespace API.Controllers
             }
         }
 
+        // DELETE /api/users/{ID}
         [HttpDelete("{id}")] //Deleting a User from API database
         public async Task<IActionResult> DeleteUser(Guid id)
         {
@@ -76,9 +77,10 @@ namespace API.Controllers
             _database.Users.Remove(selectedUser);
 
             await _database.SaveChangesAsync();
-            return Ok(selectedUser);
+            return Ok();
         }
-
+        
+        // GET /api/users/353ab842-5a82-4444-b7a1-5d8daad82da6
         [HttpGet("{id}")] //Obtaining a User from API database
         public async Task<IActionResult> GetPersonIdAsync(string id)
         {
@@ -98,7 +100,8 @@ namespace API.Controllers
                 return BadRequest();
             }
         }
-
+        
+        // POST /api/users/{ID}/image
         [HttpPost("{id}/image")]
         public async Task<IActionResult> PostImageAsync(string id, Image image)
         {   
@@ -107,27 +110,6 @@ namespace API.Controllers
                 var selectedUser = await _database.Users
                                                 .Include(x => x.Images)
                                                 .SingleOrDefaultAsync(x => x.UserId == new Guid(id));
-
-                // var tags = new List<Tag>();
-
-                // foreach(var tag in ImageHelper.GetTags(image.Url))
-                // {
-                //     var imageTag = new Tag
-                //     {
-                //         Text = tag
-                //     };
-
-                //     tags.Add((Tag)ImageHelper.GetTags(image.Url));
-                //     tags.Add(imageTag);
-                // }
-                var userImage = new Image // need to create the new image object so we can put the tags in from ImageHelper.GetTags()
-                {
-                    Id = image.Id,
-                    Url = image.Url,
-                    User = selectedUser,
-                    PostingDate = image.PostingDate,
-                    //Tags = tags
-                };
 
                 selectedUser.Images.Add(image);
 
